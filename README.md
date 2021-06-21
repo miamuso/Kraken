@@ -42,3 +42,9 @@ Good luck!
  
  # Kraken
  A fictional cold brew website.
+ 
+ ## Languages
+ I used HTML, CSS, JavaScript, and PHP for this project.
+ 
+ ## Overview
+ My process with this project was multistep. First, I protyped all the HTML, CSS and JavaScript
