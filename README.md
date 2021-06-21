@@ -61,11 +61,11 @@ Good luck!
  
  For the two sections with the coffee images and text paragraphs, I added them as custom HTML blocks in the editor, and then styled them with my custom CSS file.
  
- I also added the last large section with the coffee shop image background that is rotated in the design brief. I added that as a post as well, and rotated it/styled it with my custom CSS.
+ I also added the last large section with the coffee shop image background that is rotated in the design brief. I added that as a post as well, and rotated it and  styled with an overlay with my custom CSS.
  
  Last, I added the footer HTML that I had written, in the footer.php section.
  
- I styled all the sections with my custom.css file, including position, background colors/gradients etc. Then I added that JavaScript that I had written into the file.
+ I styled all the sections with my custom.css file, including position, background colors/gradients etc, and then added that JavaScript that I had written into the file as well.
  
  
  ## Additional Features
