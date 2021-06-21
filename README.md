@@ -47,4 +47,16 @@ Good luck!
  I used HTML, CSS, JavaScript, and PHP for this project.
  
  ## Overview
- My process with this project was multistep. First, I protyped all the HTML, CSS and JavaScript
+ My process with this project was multistep. First, I protyped all the HTML, CSS and JavaScript. You can see the live site from that here: https://kraken.superhi.com.
+ 
+ Then, I downloaded the blank starter Wordpress theme 'Underscores' and created my own theme with my custom HTML, CSS and Javascript on top of that.
+ 
+ This site is the homepage of a fictional coffee company. It includes the header, with a drop down, CSS/JavaScript nav, hoverable buttons, and responsive styling.
+ 
+ ## Additional Features
+ The additional features outside the design brief that I added here were:
+  ### 1.) Stamps
+   I added a JavaScript function that loops through an array of svg images and when the user clicks, it adds the svg image like a stamp to the page. When the user scroll, the 'stamp' disappears.
+   
+   ### 2.) Animation
+    I added an animation of bubbles floating on the middle sections.
