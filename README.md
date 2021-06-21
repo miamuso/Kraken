@@ -58,7 +58,7 @@ Good luck!
  ## Additional Features
  The additional features outside the design brief that I added were:
   ### 1.) Stamps
-   I added a JavaScript function that loops through an array of svg images and when the user clicks, it adds the svg image like a stamp to the page. When the user scroll, the 'stamp' disappears.
+   I added a JavaScript function that loops through an array of svg images and when the user clicks, it adds the svg image like a stamp to the page. When the user scrolls, the 'stamp' disappears.
    
    ### 2.) Animation
    I added an animation of bubbles floating on the middle sections.
