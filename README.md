@@ -59,13 +59,13 @@ Good luck!
  
  Then the hero section, or the whole intro section, I hardcoded that html into the index.php section.
  
- For the two sections with the coffee images and text paragraphs, I added them as custom HTML blocks in the editor, and then styled them normally.
+ For the two sections with the coffee images and text paragraphs, I added them as custom HTML blocks in the editor, and then styled them with my custom CSS file.
  
  I also added the last large section with the coffee shop image background that is rotated in the design brief. I added that as a post as well, and rotated it/styled it with my custom CSS.
  
- Last, I added the footer HTML in the footer.php section.
+ Last, I added the footer HTML that I had written, in the footer.php section.
  
- I styled all the sections with my custom.css file, including position, background colors/gradients etc.
+ I styled all the sections with my custom.css file, including position, background colors/gradients etc. Then I added that JavaScript that I had written into the file.
  
  
  ## Additional Features
@@ -74,4 +74,4 @@ Good luck!
    I added a JavaScript function that loops through an array of svg images and when the user clicks, it adds the svg image like a stamp to the page. When the user scrolls, the 'stamp' disappears.
    
    ### 2.) Animation
-   I added an animation of bubbles floating on the middle sections.
+   I added an animation that I created of bubbles floating on the middle sections.
