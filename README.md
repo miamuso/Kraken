@@ -53,6 +53,19 @@ Good luck!
  
  Then, I downloaded the blank starter Wordpress theme 'Underscores' and created my own theme with my custom HTML, CSS and Javascript on top of that.
  
+ ## Basic Structure/Process
+ 
+ For the Header section, I took the HTML that I had written, and added it to the Header.php section. I added a CSS gradient and the logo and hamburger nav img.
+ 
+ Then the hero section, or the whole intro section, I hardcoded that html into the index.php section.
+ 
+ For the two sections with the coffee images and text paragraphs, I added them as custom HTML blocks in the editor, and then styled them normally.
+ 
+ I also added the last large section with the coffee shop image background that is rotated in the design brief. I added that as a post as well, and rotated it/styled it with my custom CSS.
+ 
+ Last, I added the footer HTML in the footer.php section.
+ 
+ I styled all the sections with my custom.css file, including position, background colors/gradients etc.
  
  
  ## Additional Features
