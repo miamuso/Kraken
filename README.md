@@ -1,4 +1,4 @@
-
+<!-- 
 ### Quick Start
 
 Clone or download this repository, change its name to something else (like, say, `megatherium-is-awesome`), and then you'll need to do a six-step find and replace on the name in all the templates.
@@ -38,3 +38,4 @@ $ npm install
 Now you're ready to go! The next step is easy to say, but harder to do: make an awesome WordPress theme. :)
 
 Good luck!
+ -->
