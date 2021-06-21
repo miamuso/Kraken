@@ -39,3 +39,6 @@ Now you're ready to go! The next step is easy to say, but harder to do: make an 
 
 Good luck!
  -->
+ 
+ # Kraken
+ A fictional cold brew website.
