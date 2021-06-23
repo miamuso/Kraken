@@ -11,10 +11,7 @@ body {background-color: #0F2D38;
 
 /* header and logo styling*/
 header {
-	/* position: fixed; */
-	/* background-color: rgba(15, 42, 56, 0.9); */
 	background-image: linear-gradient(rgba(14, 32, 39, 1) , rgba(35, 57, 68, 1));
-	/* rgba(15, 45, 56, 1), */
 	padding: 10px;
 	display: flex;
 	flex-direction: row;
@@ -39,8 +36,6 @@ header a.access {
 }
 
 a.toggle {
-	/* float: right; */
-	
 	color: #fff;
 	fill: #fff;
 	z-index: 5 ;
@@ -61,7 +56,6 @@ a.toggle {
 }
 
 nav {
-	/* display: none; */
 	opacity: 0 ;
 	width: 100px ;
 	height: 100px ;
@@ -91,7 +85,6 @@ nav {
 nav.navigation {
 	width: 400px ;
 	height: 300px ;
-	/* display: block; */
 	opacity: 1 ;
   	top: 0;
 	right: 0;
@@ -107,6 +100,7 @@ nav.navigation {
 }
 
 /* styles for the whole first, or "hero" opening section */
+
 .hero {
 	height: 100vh;
 	z-index: 2;
@@ -118,25 +112,17 @@ nav.navigation {
 	flex-direction: row;
 	justify-content: space-between;
 	background:  linear-gradient( #233944 10%, #0E2028);
-	/* background-image: url("coffee-steam.png"); */
-	/*background-color:#233944 
-	#0E2027 - THIS WAS THE PREVIOUS
-	#243B45 */
-	/* margin-top: 20px; */
 	padding-top: 40px;
 }
 
 .hero-background{
 	position: absolute;
 	opacity: 0.02;
-	/* opacity: 0.02; */
 	z-index: 0;
-	
 	width: 900px;
 	overflow: hidden;
 	height: 700px;
 	margin: 0 auto;
-	
 	margin-left: 150px;
 }
 
@@ -220,8 +206,6 @@ nav.navigation {
 }
 
 .cold-brew-text {
-	/* float: left; */
-
 	font-size: 20px;
 	font-weight: 400;
 	margin-top: 5%;
@@ -280,7 +264,6 @@ nav.navigation {
 }
 
 .crema-foam-image {
-	/* float: left; */
 	width: 300px;
 	height: 300px;
 	margin-left: 15%;
@@ -289,7 +272,6 @@ nav.navigation {
 }
 
 .crema-foam-text {
-	/* float: right; */
 	font-size: 20px;
 	font-weight: 400;
 	margin-top: 5%;
@@ -319,8 +301,6 @@ nav.navigation {
 	max-width: 1700px;
 	
 	transform: scale(1, -1);
-	/* transform: scaleY(-1) scaleX(-1); */
-	/* transform: rotate(180deg), scaleX(1); */
 	background-position: left center;
 	display: flex;
 	justify-content: center;
@@ -384,8 +364,6 @@ div.stamps {
 
 div.stamps img {
   position: absolute;
-  /* animation: spin 30s linear infinite;
-  transform: translate(-50%, -50%) */
 }
 
 /*all the styling for the footer*/
@@ -406,6 +384,7 @@ footer img {
 }
 
 /* media query styling */
+
 @media(max-width: 900px){
 	body {
 		font-size: 12px;
